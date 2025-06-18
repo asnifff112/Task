@@ -45,24 +45,24 @@
 
 // for each  //.........
 
-let arr = [
-    {
-        name :'asnif',
-        mark :90,
-        place:'anappadi',
+// let arr = [
+//     {
+//         name :'asnif',
+//         mark :90,
+//         place:'anappadi',
 
-    },
-    {
-        name:'anshif',
-        mark:95,
-        place:'nilambur'
-    },
-    {
-        name:'salman',
-        mark:98,
-        place:'kozikkode'
-    }
-]
+//     },
+//     {
+//         name:'anshif',
+//         mark:95,
+//         place:'nilambur'
+//     },
+//     {
+//         name:'salman',
+//         mark:98,
+//         place:'kozikkode'
+//     }
+// ]
 // let sum = 0;
 // arr.forEach(function(item) {
 //    sum = sum + item.mark;
@@ -115,7 +115,50 @@ let arr = [
 // })
 // console.log(NewArr);
 
+// for of loop  //........
 
+// let Arr =["asnif","anshif","salman"]
+// for (let NewArr of Arr){
+//     console.log(NewArr);
+    
+// }
+
+
+// let numbers = [10,20,30,40,50]
+// for(let NewNumbers of numbers){
+//     console.log(NewNumbers + 10);
+//     }
+
+//     let str = ("aznif");
+//     for(let x of str ){
+//         console.log(x);
+        
+//     }
+
+
+    // for in loop //......
+
+    // let details =
+    //     {
+    //         name : "asnif",
+    //         age  : 18,
+    //         mark : 90
+    //     }
+    
+
+    // for (let key in details){
+    //     console.log(`${key} : ${details[key]}`);
+        
+    // }
+
+
+    // for in loop with array // ........
+
+    // let Arr =["asnif","anshif","salman"];
+    // for(let x in Arr){
+    //     console.log(x);
+        
+    // }
 
 
 
