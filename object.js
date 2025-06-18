@@ -27,7 +27,5 @@ let obj={
 student.studentDetails.call(obj)
 console.log(obj.studentDetails());
 
-// console.log(student.studentDetails());
-
-// console.log("hai");
+console.log("hai")
 

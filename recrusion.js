@@ -20,5 +20,4 @@ console.log(sum(1));
 //     }
 // }
 // console.log(multi(5,5));
-
-
+// console.log("hai")
