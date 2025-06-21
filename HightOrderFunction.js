@@ -19,7 +19,7 @@
 // function callback(funcall){
 //     let name = "asnif p";
 //     console.log(funcall(name));
-
+  
 // }
 
 // callback(greet)

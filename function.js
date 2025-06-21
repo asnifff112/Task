@@ -2,6 +2,7 @@
 
 // function numbers(num1,num2){
 //     return num1+num2
+    
 // }
 
 // let result = numbers(5,5)
@@ -43,4 +44,9 @@
 
 // nam()
 
-
+// function numbers(num1,num2){
+//     return num1+num2
+// }
+//  let result=numbers (2,4)
+//  console.log(result);
+ 

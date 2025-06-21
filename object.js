@@ -8,24 +8,24 @@
 // console.log(person);
 
 
-let student = {
-    name: "Martin",
-    class: "12th",
-    section: "A",
+// let student = {
+//     name: "Martin",
+//     class: "12th",
+//     section: "A",
 
-    studentDetails: function () {
-        return this.name + " " + this.class
-            + " " + this.section + " ";
-    }
-};
+//     studentDetails: function () {
+//         return this.name + " " + this.class
+//             + " " + this.section + " ";
+//     }
+// };
 
-let obj={
-    name:"anything",
-    class:"11th",
-    section:"B"
-}
-student.studentDetails.call(obj)
-console.log(obj.studentDetails());
+// let obj={
+//     name:"anything",
+//     class:"11th",
+//     section:"B"
+// }
+// student.studentDetails.call(obj)
+// console.log(obj.studentDetails());
 
-console.log("hai")
+// console.log("hai")
 
