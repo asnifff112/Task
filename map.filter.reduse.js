@@ -2,8 +2,6 @@
 
 // let arr = [3,6,1,7,8,10,0] ;
 
-// // let double = [2,4,10,6,8,12] ;
-
 // function double(n){
 //     return n*2
 // }
@@ -19,11 +17,11 @@
 
 // how to find greater then //
 
-// let arr = [2,3,4,5,7,9,8,10];
+let arr = [2,3,4,5,7,9,8,10];
 
 // function odd(x){
 //     return x>3
-// }
+// } 
 
 // let output = arr.filter(odd)
 
@@ -60,15 +58,15 @@
     // maxxxxxx  // .........
 
 
-    let arr =[1,3,4,5,6,7,8,9,0]
+    // let arr =[1,3,4,5,6,7,8,9,0]
 
-    let output = arr.reduce(function (max,curr){
-        if (curr > max){
-           max =curr;
-        }
-        return max ;
-    } , 0);
-    console.log(output);
+    // let output = arr.reduce(function (max,curr){
+    //     if (curr > max){
+    //        max =curr;
+    //     }
+    //     return max ;
+    // } , 0);
+    // console.log(output);
     
 
 
